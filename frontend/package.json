@@ -1,0 +1,18 @@
+{
+  "name": "hardhat-ethers-react-ts-starter",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Typescript starter template for hardhat, ethers and react projects using typescript and @web3-react",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.1"
+  },
+  "scripts": {
+    "lint": "",
+    "lint:fix": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
